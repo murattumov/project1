@@ -1,4 +1,4 @@
-# Проект 1.  Анализ резюме из HeadHunter 
+# Проект 1.  Анализ и предобработка данных резюме из HeadHunter 
 
 ## Оглавление
 [1. Описание проекта](https://github.com/murattumov/project1/blob/master/README.md#Описание-проекта)
